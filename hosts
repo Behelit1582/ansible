@@ -1,0 +1,5 @@
+[ansible_controller]
+192.168.12.184
+
+[db_server]
+192.168.12.185
